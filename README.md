@@ -5,7 +5,7 @@ This is the first task of Bharat Intern, which I have done.
 ### Getting Started
 - Clone the repository
 ```
-git clone https://github.com/Riddhi572/Blog-Management-Web-Bharat-Intern
+git clone https://github.com/Riddhi572/Blog-Management-Web-Bharat-Intern.git
 ```
 
 - Navigate to the folder
